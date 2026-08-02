@@ -1,4 +1,7 @@
 github: Saurabhtbj1201
 buy_me_a_coffee: saurabhtbjl
-custom: ["https://rzp.io/rzp/SaurabhTechServices"]
-custom: ["https://projects.gu-saurabh.site/services"]
+custom:
+  [
+    "https://rzp.io/rzp/SaurabhTechServices",
+    "https://projects.gu-saurabh.site/services"
+  ]
